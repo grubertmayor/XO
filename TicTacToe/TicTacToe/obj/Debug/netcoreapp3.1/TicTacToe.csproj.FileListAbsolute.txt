@@ -1,0 +1,63 @@
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\WindowHelper.g.cs
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Users\wolod\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\WindowHelper.baml
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\WindowHelper.g.cs
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\WindowHelper.baml
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Ева\Downloads\Telegram Desktop\TicTacToe (2)\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\WindowHelper.g.cs
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.cache
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe_MarkupCompile.lref
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\WindowHelper.baml
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.g.resources
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Ева\Desktop\pasichnyk\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
