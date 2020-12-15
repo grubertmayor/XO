@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ева\\Desktop\\pasichnyk\\TicTacToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\Ева\\Desktop\\3курс\\pasichnyk\\XO\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\Ева\\Desktop\\pasichnyk\\TicTacToe\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectPath": "C:\\Users\\Ева\\Desktop\\3курс\\pasichnyk\\XO\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "packagesPath": "C:\\Users\\Ева\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ева\\Desktop\\pasichnyk\\TicTacToe\\TicTacToe\\TicTacToe\\obj\\",
+      "outputPath": "C:\\Users\\Ева\\Desktop\\3курс\\pasichnyk\\XO\\TicTacToe\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ева\\AppData\\Roaming\\NuGet\\NuGet.Config",
